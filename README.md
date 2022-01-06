@@ -2,7 +2,7 @@
 
 ## WHAT IS IT?
 
-This model provides a simulation of the honeybee experiment developed by T. Schmickl et al in their paper ``Social Intergrating Robots Suggest Mitigation Strategies for Ecosystem Decay'' (2021).
+This model provides a NetLogo simulation of the honeybee experiment developed by T. Schmickl et al in their paper ``Social Intergrating Robots Suggest Mitigation Strategies for Ecosystem Decay'' (2021).
 This model was developed for the the Seminar 'Cyber Physical Systems' (2021/22) at 'University zu Lübeck'. 
 
 ## HOW IT WORKS
